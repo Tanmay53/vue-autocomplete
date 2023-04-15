@@ -13,3 +13,5 @@ npm install
 ```sh
 npm run dev
 ```
+
+![Sample Screenshot Vue Autocomplete](src/assets/images/screenshot.png)
