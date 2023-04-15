@@ -1,0 +1,46 @@
+[
+    {
+      "name": "M.S. Dhoni",
+      "team": "Chennai"
+    },
+    {
+      "name": "K.L. Rahul",
+      "team": "Lucknow"
+    },
+    {
+      "name": "Rishab Pant",
+      "team": "Delhi"
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "Bangalore"
+    },
+    {
+      "name": "Shubhman Gill",
+      "team": "Lucknow"
+    },
+    {
+      "name": "Rinku Singh",
+      "team": "Kolkata"
+    },
+    {
+      "name": "David Warner",
+      "team": "Hyderabad"
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "Mumbai"
+    },
+    {
+      "name": "Sunil Naraine",
+      "team": "Kolkata"
+    },
+    {
+      "name": "Arshdeep Singh",
+      "team": "Punjab"
+    },
+    {
+        "name": "Hardik Pandya",
+        "team": "Gujrat"
+    }
+]
